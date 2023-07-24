@@ -1,1 +1,3 @@
 # kirby-game
+## Goal
+collect the waddle Dees and avoid the Dedes.You have 3 lives...
